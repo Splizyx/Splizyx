@@ -4,9 +4,11 @@
   Content de te voir sur ici !
 </h3>
 
-## 👨 + Présentation
+## 👨 Présentation
 
-### 👋 Yo ! Moi c'est Splizyx
+### 👋  Yo ! Moi c'est Splizyx
+
++test 
 
 ## 🛠️ Mes différents outils
 
