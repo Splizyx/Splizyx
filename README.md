@@ -6,6 +6,8 @@
 
 ## 👨 Présentation
 
+👋 Yo ! Moi c'est Splizyx
+
 ## 🛠️ Mes différents outils
 
 ### 👨‍💻 Languages de Programations
