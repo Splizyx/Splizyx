@@ -34,7 +34,7 @@
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-07405e.svg?logo=sqlite&logoColor=white&style=for-the-badge">
 </p>
 
-### 💻 Logiciels et Outils 💻
+### 💻 Logiciels et Outils
 
 <p>
   <img alt="Adobe" src="https://img.shields.io/badge/adobe-FF0000.svg?logo=adobe&logoColor=white&style=for-the-badge">
