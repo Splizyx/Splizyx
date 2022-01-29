@@ -7,7 +7,7 @@
 ## 👨 Présentation
 
 ### 👋 Yo ! Moi c'est Splizyx
-### 💻 Je suis passioné par le développement, je dev sur plusieurs languages.
+### 💻 Dev principalement Java & LUA
 ### ⛏️ Je suis créateur de serveur Minecraft
 ###
 ###
