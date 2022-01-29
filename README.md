@@ -6,7 +6,14 @@
 
 ## 👨 Présentation
 
-### 👋  Yo ! Moi c'est Splizyx
+### 👋 Yo ! Moi c'est Splizyx
+### 💻 Je suis passioné par le développement, je dev sur plusieurs languages.
+### ⛏️ Je suis créateur de serveur Minecraft
+###
+###
+###
+###
+###
 
 ## 🛠️ Mes différents outils
 
