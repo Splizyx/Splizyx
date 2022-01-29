@@ -6,7 +6,7 @@
 
 ## 👨 Présentation
 
-👋 Yo ! Moi c'est Splizyx
+### 👋 Yo ! Moi c'est Splizyx
 
 ## 🛠️ Mes différents outils
 
