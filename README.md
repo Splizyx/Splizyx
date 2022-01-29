@@ -46,7 +46,7 @@
 
 ## 📊 Mes Stats
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jvin042&count_private=true&show_icons=true&theme=dracula)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Splizyx&count_private=true&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvin042&layout=compact&theme=dracula)
 <!--
 **Splizyx/Splizyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
