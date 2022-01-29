@@ -8,8 +8,6 @@
 
 ### 👋  Yo ! Moi c'est Splizyx
 
-+test 
-
 ## 🛠️ Mes différents outils
 
 ### 👨‍💻 Languages de Programations
